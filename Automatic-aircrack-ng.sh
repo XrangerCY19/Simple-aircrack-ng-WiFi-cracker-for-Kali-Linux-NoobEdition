@@ -21,7 +21,7 @@
 
 
  "1")
-	 printf "\n ${LG}Keep this terminal until password is cracked. ${NC}\n\n\n"
+	 printf "\n ${LG}Keep this terminal active until password is cracked. ${NC}\n\n\n"
 	 sleep 2
 	 ifconfig
  
